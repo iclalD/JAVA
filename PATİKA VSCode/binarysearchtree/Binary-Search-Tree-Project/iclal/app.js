@@ -1,0 +1,1 @@
+let sayı = prompt("Bir sayı giriniz: ")

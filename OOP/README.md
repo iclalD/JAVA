@@ -4,4 +4,4 @@
 
 # Hayvanat Bahçesi Yönetimi
 ----------------
-![](file:///C:/Users/iclal/Downloads/Hayv.%20Bah%C3%A7.%20Y%C3%B6n..pdf)
+![](https://raw.githubusercontent.com/iclalfeyza/JAVA/main/OOP/Hayv.%20Bah%C3%A7.%20Y%C3%B6n..jpeg)
